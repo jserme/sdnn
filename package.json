@@ -1,0 +1,14 @@
+{
+  "name": "sdnn",
+  "version": "1.0.0",
+  "description": "simple deep neural network pure javascript implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jserme <dev.hubo@gmail.com> (http://jser.me/)",
+  "license": "ISC",
+  "devDependencies": {
+    "mnist": "^1.1.0"
+  }
+}
